@@ -1,0 +1,16 @@
+
+main {
+  width: 800px;
+}
+
+#todays-challenge {
+  color: rgb(110, 39, 65);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}

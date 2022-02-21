@@ -1,0 +1,63 @@
+header {
+  margin-bottom: 64px;
+}
+
+h1 {
+  font-size: 48px;
+  color: rgb(71, 62, 62);
+  margin: 0;
+}
+
+#description {
+  margin: 12px 0;
+}
+
+/* header p{
+    margin-bottom: 36px;
+} */
+
+a {
+  padding: 12px 48px;
+  background-color: rgb(170, 5, 88);
+  color: white;
+  border-radius: 4px;
+  font-size: 24px;
+  border: 1px solid rgb(170, 5, 88);
+  margin: 30px 12px;
+  display: inline-block;
+  margin: 0;
+}
+
+a:hover {
+  background-color: rgb(173, 39, 102);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  padding: 16px;
+  box-shadow: 1px 1px 4px rgb(0 0 0 / 20%);
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  margin: 32px;
+}
+
+h2 {
+  color: rgb(78, 15, 5);
+  font-family: "Oswald", sans-serif;
+}
+
+/* main p{
+    margin: 12px;
+    color: rgb(79, 21, 22);
+} */
+
+.highlight-goal {
+  background-color: rgb(219, 101, 86);
+}

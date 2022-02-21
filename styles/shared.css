@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  margin: 50px;
+  background-color: rgb(233, 215, 240);
+}
+
+h1 {
+  font-family: "Fira Sans";
+  color: #383434;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  margin-bottom: 36px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Fira Sans";
+  color: rgb(170, 5, 88);
+}
+a:hover {
+  text-decoration: underline;
+}
